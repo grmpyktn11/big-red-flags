@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-10-01T02:38:14+00:00",
+  "generated": "2026-10-05T14:39:04+00:00",
   "source": "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files",
   "source_revision": 1376910601,
   "member_list_error": null,
@@ -727,15 +727,15 @@
    },
    "orgs": [],
    "education": [
+    "Simon's Rock at Bard College",
     "Temple University",
-    "New York University",
-    "Simon's Rock at Bard College"
+    "New York University"
    ],
    "verified": false,
    "colleges": [
+    "Simon's Rock at Bard College",
     "Temple University",
-    "New York University",
-    "Simon's Rock at Bard College"
+    "New York University"
    ]
   },
   {
@@ -2053,7 +2053,7 @@
    "name": "Dennis Hastert",
    "url": "https://en.wikipedia.org/wiki/Dennis_Hastert",
    "qid": "Q553626",
-   "description": "American politician and criminal (born 1942)",
+   "description": "American politician and criminal (1942–2026)",
    "documents": [],
    "epstein": false,
    "cases": [
@@ -2585,7 +2585,7 @@
    "name": "Elizabeth Holmes",
    "url": "https://en.wikipedia.org/wiki/Elizabeth_Holmes",
    "qid": "Q17503525",
-   "description": "American fraudulent businesswoman (born 1984)",
+   "description": "American businesswoman (born 1984)",
    "documents": [],
    "epstein": false,
    "cases": [
@@ -2892,9 +2892,9 @@
    },
    "orgs": [],
    "education": [
+    "Harvard University",
     "Phillips Academy",
-    "Duke University",
-    "Harvard University"
+    "Duke University"
    ],
    "verified": false,
    "colleges": [
@@ -5954,7 +5954,7 @@
    "name": "Nicole Junkermann",
    "url": "https://en.wikipedia.org/wiki/Nicole_Junkermann",
    "qid": "Q131627413",
-   "description": "German businesswoman (born 1975)",
+   "description": "German businesswoman (born 1980)",
    "documents": [
     "Emails"
    ],
@@ -6795,7 +6795,7 @@
    "name": "Robert F. Kennedy Jr.",
    "url": "https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.",
    "qid": "Q1352872",
-   "description": "American politician (born 1954)",
+   "description": "American politician and lawyer (born 1954)",
    "documents": [
     "Flight logs",
     "Emails"
@@ -8089,15 +8089,15 @@
    },
    "orgs": [],
    "education": [
-    "University of Southern California",
     "University of San Diego School of Law",
-    "USC Gould School of Law"
+    "USC Gould School of Law",
+    "University of Southern California"
    ],
    "verified": false,
    "colleges": [
-    "University of Southern California",
     "University of San Diego School of Law",
-    "USC Gould School of Law"
+    "USC Gould School of Law",
+    "University of Southern California"
    ]
   },
   {
