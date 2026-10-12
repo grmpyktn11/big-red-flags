@@ -99,7 +99,7 @@
    "type": "person",
    "label": "Ben Goertzel",
    "name": "Ben Goertzel",
-   "description": "American computer scientist and AI researcher",
+   "description": "American computer scientist and AI researcher (born 1966)",
    "url": "https://en.wikipedia.org/wiki/Ben_Goertzel",
    "epstein": true,
    "cases": []
@@ -1103,7 +1103,7 @@
    "type": "person",
    "label": "Robert F. Kennedy Jr.",
    "name": "Robert F. Kennedy Jr.",
-   "description": "American politician and lawyer (born 1954)",
+   "description": "American politician (born 1954)",
    "url": "https://en.wikipedia.org/wiki/Robert_F._Kennedy_Jr.",
    "epstein": true,
    "cases": []

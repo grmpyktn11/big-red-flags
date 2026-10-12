@@ -1,4 +1,4 @@
-220 raw entries from rev 1376910601 (+61 scandal entries)
+220 raw entries from rev 1379503443 (+61 scandal entries)
   fetched 0/202
   fetched 25/202
   fetched 50/202
@@ -10,9 +10,9 @@
   fetched 200/202
 member lists matched 19 people
 {
- "generated": "2026-10-05T14:39:04+00:00",
+ "generated": "2026-10-12T15:24:38+00:00",
  "source": "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files",
- "source_revision": 1376910601,
+ "source_revision": 1379503443,
  "member_list_error": null,
  "counts": {
   "people": 211,
