@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-10-12T15:24:38+00:00",
+  "generated": "2026-10-19T13:14:37+00:00",
   "source": "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files",
   "source_revision": 1379503443,
   "member_list_error": null,
@@ -2892,9 +2892,9 @@
    },
    "orgs": [],
    "education": [
+    "Harvard University",
     "Phillips Academy",
-    "Duke University",
-    "Harvard University"
+    "Duke University"
    ],
    "verified": false,
    "colleges": [
@@ -6756,11 +6756,6 @@
        "url": "https://en.wikipedia.org/wiki/Richard_Axel"
       },
       {
-       "source": "Wikipedia category",
-       "text": "Columbia University alumni",
-       "url": "https://en.wikipedia.org/wiki/Richard_Axel"
-      },
-      {
        "source": "Wikipedia article text",
        "text": "He graduated from Stuyvesant High School in 1963, (along with Bruce Bueno de Mesquita, Allan Lichtman, Ron Silver, and Alexander Rosenberg), received his B.A. in 1967 from Columbia University, and his M.D. in 1971 from Johns Hopkins University.",
        "url": "https://en.wikipedia.org/wiki/Richard_Axel"
@@ -6828,13 +6823,13 @@
    },
    "orgs": [],
    "education": [
-    "Millbrook School",
     "University of Virginia School of Law",
     "Elisabeth Haub School of Law at Pace University",
     "Sidwell Friends School",
     "Georgetown Preparatory School",
     "London School of Economics and Political Science",
-    "Harvard University"
+    "Harvard University",
+    "Millbrook School"
    ],
    "verified": false,
    "colleges": [
@@ -7707,11 +7702,11 @@
    "orgs": [],
    "education": [
     "Virginia Tech College of Architecture and Urban Studies",
+    "Harvard Business School",
+    "Harvard University",
     "Benedictine High School",
     "Walsh School of Foreign Service",
-    "Virginia Tech",
-    "Harvard Business School",
-    "Harvard University"
+    "Virginia Tech"
    ],
    "verified": false,
    "colleges": [
@@ -7864,16 +7859,16 @@
    },
    "orgs": [],
    "education": [
-    "Wagar High School",
-    "Dawson College",
     "McGill University",
-    "Harvard University"
+    "Harvard University",
+    "Wagar High School",
+    "Dawson College"
    ],
    "verified": false,
    "colleges": [
     "Harvard University",
-    "Dawson College",
-    "McGill University"
+    "McGill University",
+    "Dawson College"
    ]
   },
   {
@@ -7932,7 +7927,7 @@
    "name": "Sunny Balwani",
    "url": "https://en.wikipedia.org/wiki/Sunny_Balwani",
    "qid": "Q50825723",
-   "description": "Former president and COO of Theranos",
+   "description": "Former president and COO of Theranos (born 1965)",
    "documents": [],
    "epstein": false,
    "cases": [
