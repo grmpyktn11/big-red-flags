@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated": "2026-10-19T13:14:37+00:00",
+  "generated": "2026-10-26T13:02:34+00:00",
   "source": "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files",
   "source_revision": 1379503443,
   "member_list_error": null,
@@ -49,7 +49,7 @@
    },
    "frat_yes": 21,
    "frat_possible": 0,
-   "orgs_yes": 11,
+   "orgs_yes": 10,
    "orgs_possible": 0
   }
  },
@@ -1017,21 +1017,7 @@
     "honor_societies": [],
     "evidence": []
    },
-   "orgs": [
-    {
-     "name": "Fox Club",
-     "kind": "club",
-     "school": "Harvard",
-     "status": "yes",
-     "evidence": [
-      {
-       "source": "Wikipedia: Fox Club",
-       "text": "Bill Gates, co-founder of Microsoft and co-chair of the Bill & Melinda Gates Foundation",
-       "url": "https://en.wikipedia.org/wiki/Fox_Club"
-      }
-     ]
-    }
-   ],
+   "orgs": [],
    "education": [
     "Lakeside School",
     "Harvard College"
@@ -3056,7 +3042,7 @@
    "name": "Grady Judd",
    "url": "https://en.wikipedia.org/wiki/Grady_Judd",
    "qid": "Q50345105",
-   "description": "Sheriff of Polk County, Florida",
+   "description": "Sheriff of Polk County, Florida (born 1954)",
    "documents": [
     "Emails"
    ],
@@ -3453,9 +3439,9 @@
    },
    "orgs": [],
    "education": [
-    "Lafayette High School",
     "Courant Institute School of Mathematics, Computing, and Data Science",
-    "Cooper Union"
+    "Cooper Union",
+    "Lafayette High School"
    ],
    "verified": false,
    "colleges": [
@@ -5546,9 +5532,9 @@
     }
    ],
    "education": [
+    "University of California, Berkeley",
     "Birmingham High School",
-    "The Wharton School",
-    "University of California, Berkeley"
+    "The Wharton School"
    ],
    "verified": true,
    "note": "Member at UC Berkeley.",
@@ -6823,13 +6809,13 @@
    },
    "orgs": [],
    "education": [
+    "Millbrook School",
     "University of Virginia School of Law",
     "Elisabeth Haub School of Law at Pace University",
     "Sidwell Friends School",
     "Georgetown Preparatory School",
     "London School of Economics and Political Science",
-    "Harvard University",
-    "Millbrook School"
+    "Harvard University"
    ],
    "verified": false,
    "colleges": [
@@ -7196,7 +7182,7 @@
    "name": "Sam Bankman-Fried",
    "url": "https://en.wikipedia.org/wiki/Sam_Bankman-Fried",
    "qid": "Q106543540",
-   "description": "American cryptocurrency entrepreneur and criminal (born 1992)",
+   "description": "American cryptocurrency entrepreneur and fraudster (born 1992)",
    "documents": [],
    "epstein": false,
    "cases": [
@@ -7423,11 +7409,13 @@
    "orgs": [],
    "education": [
     "Mount Saint Michael Academy",
-    "Howard University"
+    "Howard University",
+    "pederasty"
    ],
    "verified": false,
    "colleges": [
-    "Howard University"
+    "Howard University",
+    "pederasty"
    ]
   },
   {
@@ -7702,11 +7690,11 @@
    "orgs": [],
    "education": [
     "Virginia Tech College of Architecture and Urban Studies",
-    "Harvard Business School",
-    "Harvard University",
     "Benedictine High School",
     "Walsh School of Foreign Service",
-    "Virginia Tech"
+    "Virginia Tech",
+    "Harvard Business School",
+    "Harvard University"
    ],
    "verified": false,
    "colleges": [
@@ -7859,16 +7847,16 @@
    },
    "orgs": [],
    "education": [
-    "McGill University",
-    "Harvard University",
     "Wagar High School",
-    "Dawson College"
+    "Dawson College",
+    "McGill University",
+    "Harvard University"
    ],
    "verified": false,
    "colleges": [
     "Harvard University",
-    "McGill University",
-    "Dawson College"
+    "Dawson College",
+    "McGill University"
    ]
   },
   {

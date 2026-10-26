@@ -1199,7 +1199,7 @@
    "type": "person",
    "label": "Sam Bankman-Fried",
    "name": "Sam Bankman-Fried",
-   "description": "American cryptocurrency entrepreneur and criminal (born 1992)",
+   "description": "American cryptocurrency entrepreneur and fraudster (born 1992)",
    "url": "https://en.wikipedia.org/wiki/Sam_Bankman-Fried",
    "epstein": false,
    "cases": [
@@ -1908,14 +1908,6 @@
    "kind": "publication",
    "school": "Duke",
    "label": "Duke Law Journal",
-   "count": 1
-  },
-  {
-   "id": "o:Fox Club",
-   "type": "club",
-   "kind": "club",
-   "school": "Harvard",
-   "label": "Fox Club",
    "count": 1
   },
   {
@@ -3085,11 +3077,6 @@
    "kind": "club"
   },
   {
-   "source": "p:Bill Gates",
-   "target": "o:Fox Club",
-   "kind": "club"
-  },
-  {
    "source": "p:Kathryn Ruemmler",
    "target": "o:Georgetown Law Journal",
    "kind": "club"
@@ -3185,7 +3172,7 @@
   "people_unlinked": 74,
   "colleges": 43,
   "frats": 17,
-  "clubs": 16,
+  "clubs": 15,
   "cases": 1
  }
 }

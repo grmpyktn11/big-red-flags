@@ -8,9 +8,9 @@
   fetched 150/202
   fetched 175/202
   fetched 200/202
-member lists matched 19 people
+member lists matched 18 people
 {
- "generated": "2026-10-19T13:14:37+00:00",
+ "generated": "2026-10-26T13:02:34+00:00",
  "source": "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files",
  "source_revision": 1379503443,
  "member_list_error": null,
@@ -59,7 +59,7 @@ member lists matched 19 people
   },
   "frat_yes": 21,
   "frat_possible": 0,
-  "orgs_yes": 11,
+  "orgs_yes": 10,
   "orgs_possible": 0
  }
 }
