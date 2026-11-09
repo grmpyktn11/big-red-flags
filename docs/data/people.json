@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generated": "2026-10-26T13:02:34+00:00",
+  "generated": "2026-11-09T16:18:29+00:00",
   "source": "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files",
-  "source_revision": 1379503443,
+  "source_revision": 1384504735,
   "member_list_error": null,
   "counts": {
    "people": 211,
@@ -84,7 +84,7 @@
    "name": "Al Seckel",
    "url": "https://en.wikipedia.org/wiki/Al_Seckel",
    "qid": "Q2023240",
-   "description": "American collector and skeptic (1958–2015)",
+   "description": "American collector, skeptic, and reputation manager for Jeffrey Epstein (1958–2015)",
    "documents": [],
    "epstein": true,
    "cases": [],
@@ -727,15 +727,15 @@
    },
    "orgs": [],
    "education": [
+    "Simon's Rock at Bard College",
     "Temple University",
-    "New York University",
-    "Simon's Rock at Bard College"
+    "New York University"
    ],
    "verified": false,
    "colleges": [
+    "Simon's Rock at Bard College",
     "Temple University",
-    "New York University",
-    "Simon's Rock at Bard College"
+    "New York University"
    ]
   },
   {
@@ -797,7 +797,7 @@
      },
      {
       "source": "Wikipedia: List of Sigma Alpha Mu members",
-      "text": "Bernard Madoff, former stockbroker, investment advisor, financier, and white collar criminal",
+      "text": "Bernard Madoff, former stockbroker, investment advisor, financier, and white-collar criminal",
       "url": "https://en.wikipedia.org/wiki/List_of_Sigma_Alpha_Mu_members"
      }
     ]
@@ -1161,7 +1161,7 @@
    "name": "Bob Menendez",
    "url": "https://en.wikipedia.org/wiki/Bob_Menendez",
    "qid": "Q888132",
-   "description": "American politician (born 1954)",
+   "description": "American politician and criminal (born 1954)",
    "documents": [],
    "epstein": false,
    "cases": [
@@ -2287,7 +2287,7 @@
     },
     "Harvard": {
      "status": "yes",
-     "faculty": false,
+     "faculty": true,
      "evidence": [
       {
        "source": "Wikidata (educated at)",
@@ -2297,6 +2297,11 @@
       {
        "source": "Wikipedia category",
        "text": "Harvard Graduate School of Arts and Sciences alumni",
+       "url": "https://en.wikipedia.org/wiki/Edward_Jay_Epstein"
+      },
+      {
+       "source": "Wikipedia category",
+       "text": "Harvard University faculty",
        "url": "https://en.wikipedia.org/wiki/Edward_Jay_Epstein"
       },
       {
@@ -2615,7 +2620,7 @@
    "name": "Elon Musk",
    "url": "https://en.wikipedia.org/wiki/Elon_Musk",
    "qid": "Q317521",
-   "description": "Businessman and entrepreneur (born 1971)",
+   "description": "Industrialist and technologist (born 1971)",
    "documents": [
     "Emails"
    ],
@@ -2662,23 +2667,23 @@
    },
    "orgs": [],
    "education": [
-    "Smith School of Business",
-    "Bryanston High School",
     "Waterkloof House Preparatory School",
     "Pretoria Boys High School",
     "Queen's University",
     "The Wharton School",
     "University of Pretoria",
     "University of Pennsylvania",
-    "Stanford University"
+    "Stanford University",
+    "Smith School of Business",
+    "Bryanston High School"
    ],
    "verified": false,
    "colleges": [
     "University of Pennsylvania",
-    "Smith School of Business",
     "Queen's University",
     "University of Pretoria",
-    "Stanford University"
+    "Stanford University",
+    "Smith School of Business"
    ]
   },
   {
@@ -2878,9 +2883,9 @@
    },
    "orgs": [],
    "education": [
-    "Harvard University",
     "Phillips Academy",
-    "Duke University"
+    "Duke University",
+    "Harvard University"
    ],
    "verified": false,
    "colleges": [
@@ -3439,9 +3444,9 @@
    },
    "orgs": [],
    "education": [
+    "Lafayette High School",
     "Courant Institute School of Mathematics, Computing, and Data Science",
-    "Cooper Union",
-    "Lafayette High School"
+    "Cooper Union"
    ],
    "verified": false,
    "colleges": [
@@ -5532,9 +5537,9 @@
     }
    ],
    "education": [
-    "University of California, Berkeley",
     "Birmingham High School",
-    "The Wharton School"
+    "The Wharton School",
+    "University of California, Berkeley"
    ],
    "verified": true,
    "note": "Member at UC Berkeley.",
@@ -6762,9 +6767,9 @@
    },
    "orgs": [],
    "education": [
-    "Stuyvesant High School",
     "Johns Hopkins School of Medicine",
-    "Columbia University"
+    "Columbia University",
+    "Stuyvesant High School"
    ],
    "verified": false,
    "colleges": [
@@ -7409,13 +7414,11 @@
    "orgs": [],
    "education": [
     "Mount Saint Michael Academy",
-    "Howard University",
-    "pederasty"
+    "Howard University"
    ],
    "verified": false,
    "colleges": [
-    "Howard University",
-    "pederasty"
+    "Howard University"
    ]
   },
   {
@@ -7530,7 +7533,7 @@
    "name": "Stacey Plaskett",
    "url": "https://en.wikipedia.org/wiki/Stacey_Plaskett",
    "qid": "Q18739104",
-   "description": "American politician (born 1966)",
+   "description": "Governor-elect of the US Virgin Islands (born 1966)",
    "documents": [
     "DOJ / Congressional release"
    ],
@@ -7585,18 +7588,18 @@
    },
    "orgs": [],
    "education": [
-    "Byron House School",
-    "St Albans School",
+    "University of Cambridge",
     "St Albans High School for Girls",
     "Trinity Hall",
     "University College, Oxford",
-    "University of Cambridge"
+    "Byron House School",
+    "St Albans School"
    ],
    "verified": false,
    "colleges": [
+    "University of Cambridge",
     "Trinity Hall",
-    "University of Oxford",
-    "University of Cambridge"
+    "University of Oxford"
    ]
   },
   {
@@ -8072,15 +8075,15 @@
    },
    "orgs": [],
    "education": [
-    "University of Southern California",
     "University of San Diego School of Law",
-    "USC Gould School of Law"
+    "USC Gould School of Law",
+    "University of Southern California"
    ],
    "verified": false,
    "colleges": [
-    "University of Southern California",
     "University of San Diego School of Law",
-    "USC Gould School of Law"
+    "USC Gould School of Law",
+    "University of Southern California"
    ]
   },
   {

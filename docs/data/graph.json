@@ -5,7 +5,7 @@
    "type": "person",
    "label": "Al Seckel",
    "name": "Al Seckel",
-   "description": "American collector and skeptic (1958–2015)",
+   "description": "American collector, skeptic, and reputation manager for Jeffrey Epstein (1958–2015)",
    "url": "https://en.wikipedia.org/wiki/Al_Seckel",
    "epstein": true,
    "cases": []
@@ -175,7 +175,7 @@
    "type": "person",
    "label": "Bob Menendez",
    "name": "Bob Menendez",
-   "description": "American politician (born 1954)",
+   "description": "American politician and criminal (born 1954)",
    "url": "https://en.wikipedia.org/wiki/Bob_Menendez",
    "epstein": false,
    "cases": [
@@ -421,7 +421,7 @@
    "type": "person",
    "label": "Elon Musk",
    "name": "Elon Musk",
-   "description": "Businessman and entrepreneur (born 1971)",
+   "description": "Industrialist and technologist (born 1971)",
    "url": "https://en.wikipedia.org/wiki/Elon_Musk",
    "epstein": true,
    "cases": []
@@ -1255,7 +1255,7 @@
    "type": "person",
    "label": "Stacey Plaskett",
    "name": "Stacey Plaskett",
-   "description": "American politician (born 1966)",
+   "description": "Governor-elect of the US Virgin Islands (born 1966)",
    "url": "https://en.wikipedia.org/wiki/Stacey_Plaskett",
    "epstein": true,
    "cases": []
