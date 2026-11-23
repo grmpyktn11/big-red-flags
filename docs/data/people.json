@@ -1,15 +1,15 @@
 {
  "meta": {
-  "generated": "2026-11-16T15:45:12+00:00",
+  "generated": "2026-11-23T18:06:43+00:00",
   "source": "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files",
-  "source_revision": 1385408442,
+  "source_revision": 1387229955,
   "member_list_error": null,
   "counts": {
-   "people": 211,
+   "people": 210,
    "epstein": 153,
-   "scandal": 59,
+   "scandal": 58,
    "cornell": 3,
-   "excluded": 7,
+   "excluded": 8,
    "unresolved": 1,
    "ivy_yes": 62,
    "ivy_possible": 0,
@@ -2620,7 +2620,7 @@
    "name": "Elon Musk",
    "url": "https://en.wikipedia.org/wiki/Elon_Musk",
    "qid": "Q317521",
-   "description": "Industrialist and technologist (born 1971)",
+   "description": "Industrialist and futurist (born 1971)",
    "documents": [
     "Emails"
    ],
@@ -3078,7 +3078,8 @@
    "qid": "Q5655835",
    "description": "Indian politician and diplomat (born 1952)",
    "documents": [
-    "Emails"
+    "Emails",
+    "Photographs"
    ],
    "epstein": true,
    "cases": [],
@@ -3134,7 +3135,7 @@
    "name": "Howard Lutnick",
    "url": "https://en.wikipedia.org/wiki/Howard_Lutnick",
    "qid": "Q16194176",
-   "description": "American businessman and government official (born 1961)",
+   "description": "",
    "documents": [],
    "epstein": true,
    "cases": [],
@@ -7187,7 +7188,7 @@
    "name": "Sam Bankman-Fried",
    "url": "https://en.wikipedia.org/wiki/Sam_Bankman-Fried",
    "qid": "Q106543540",
-   "description": "American cryptocurrency entrepreneur and fraudster (born 1992)",
+   "description": "American entrepreneur (born 1992)",
    "documents": [],
    "epstein": false,
    "cases": [
@@ -7392,36 +7393,6 @@
    ]
   },
   {
-   "name": "Sean Combs",
-   "url": "https://en.wikipedia.org/wiki/Sean_Combs",
-   "qid": "Q216936",
-   "description": "American rapper and producer (born 1969)",
-   "documents": [],
-   "epstein": false,
-   "cases": [
-    {
-     "case": "Sean Combs trafficking case",
-     "outcome": "Convicted on two Mann Act prostitution counts (2025); acquitted of sex trafficking and racketeering"
-    }
-   ],
-   "schools": {},
-   "frat": {
-    "status": "no",
-    "orgs": [],
-    "honor_societies": [],
-    "evidence": []
-   },
-   "orgs": [],
-   "education": [
-    "Mount Saint Michael Academy",
-    "Howard University"
-   ],
-   "verified": false,
-   "colleges": [
-    "Howard University"
-   ]
-  },
-  {
    "name": "Sergei Belyakov",
    "url": "https://en.wikipedia.org/wiki/Sergei_Belyakov",
    "qid": "Q4083560",
@@ -7588,12 +7559,12 @@
    },
    "orgs": [],
    "education": [
+    "Byron House School",
+    "St Albans School",
     "St Albans High School for Girls",
     "Trinity Hall",
     "University College, Oxford",
-    "University of Cambridge",
-    "Byron House School",
-    "St Albans School"
+    "University of Cambridge"
    ],
    "verified": false,
    "colleges": [
@@ -8075,15 +8046,15 @@
    },
    "orgs": [],
    "education": [
-    "University of Southern California",
     "University of San Diego School of Law",
-    "USC Gould School of Law"
+    "USC Gould School of Law",
+    "University of Southern California"
    ],
    "verified": false,
    "colleges": [
-    "University of Southern California",
     "University of San Diego School of Law",
-    "USC Gould School of Law"
+    "USC Gould School of Law",
+    "University of Southern California"
    ]
   },
   {

@@ -421,7 +421,7 @@
    "type": "person",
    "label": "Elon Musk",
    "name": "Elon Musk",
-   "description": "Industrialist and technologist (born 1971)",
+   "description": "Industrialist and futurist (born 1971)",
    "url": "https://en.wikipedia.org/wiki/Elon_Musk",
    "epstein": true,
    "cases": []
@@ -1199,7 +1199,7 @@
    "type": "person",
    "label": "Sam Bankman-Fried",
    "name": "Sam Bankman-Fried",
-   "description": "American cryptocurrency entrepreneur and fraudster (born 1992)",
+   "description": "American entrepreneur (born 1992)",
    "url": "https://en.wikipedia.org/wiki/Sam_Bankman-Fried",
    "epstein": false,
    "cases": [
@@ -3169,7 +3169,7 @@
  ],
  "counts": {
   "people_linked": 137,
-  "people_unlinked": 74,
+  "people_unlinked": 73,
   "colleges": 43,
   "frats": 17,
   "clubs": 15,

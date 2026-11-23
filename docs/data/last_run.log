@@ -1,4 +1,4 @@
-220 raw entries from rev 1385408442 (+61 scandal entries)
+220 raw entries from rev 1387229955 (+61 scandal entries)
   fetched 0/202
   fetched 25/202
   fetched 50/202
@@ -10,16 +10,16 @@
   fetched 200/202
 member lists matched 18 people
 {
- "generated": "2026-11-16T15:45:12+00:00",
+ "generated": "2026-11-23T18:06:43+00:00",
  "source": "https://en.wikipedia.org/wiki/List_of_people_named_in_the_Epstein_files",
- "source_revision": 1385408442,
+ "source_revision": 1387229955,
  "member_list_error": null,
  "counts": {
-  "people": 211,
+  "people": 210,
   "epstein": 153,
-  "scandal": 59,
+  "scandal": 58,
   "cornell": 3,
-  "excluded": 7,
+  "excluded": 8,
   "unresolved": 1,
   "ivy_yes": 62,
   "ivy_possible": 0,
